@@ -16,6 +16,7 @@ code
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 [patika](https://www.patika.dev/tr)
+[benim patika linkim](https://app.patika.dev/eneskaragoz)
 
 ## License
 
